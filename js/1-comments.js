@@ -1,0 +1,3 @@
+//komentarz liniowy 
+
+/*komentarz blokoy*/
