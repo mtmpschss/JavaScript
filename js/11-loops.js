@@ -38,7 +38,7 @@ do {
     while (a < 10) {
         console.log(++a)};
         if (a == 5) {
-            brak;
+            break;
         }
 
         /*    przeskakiwanie iteracji - continue*/
@@ -46,7 +46,7 @@ do {
             if (b == 2)
                 continue;
             } else {
-                console.log(b)};
+                console.log(b);
             
-        }
+}
     
