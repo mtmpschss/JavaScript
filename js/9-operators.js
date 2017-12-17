@@ -29,3 +29,7 @@ else {
 if ( !(("2" === 2) && (8 < 4))) {
     document.write("<br />prawda")
 }
+
+/*Operator warunkowy*/
+
+(8 > 4) ? console.log("prawda") : console.log("fałsz");
